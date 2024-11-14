@@ -1,0 +1,1 @@
+Ce projet est un exercice réalisé par Axel PEDRERO et Romain COURBAIZE dans le cadre de leur 1ère année d'école d'ingénieur 3il à Rodez.
